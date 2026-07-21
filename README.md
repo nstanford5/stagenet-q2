@@ -1,3 +1,5 @@
+This project is built on the Midnight Network.
+
 # stagenet-q2
 
 A stagenet testing harness for the `compact-end-2-end` dapps, modeled after
